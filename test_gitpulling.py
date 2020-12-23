@@ -1,0 +1,2 @@
+def pushtoOrigin():
+  print("death")
