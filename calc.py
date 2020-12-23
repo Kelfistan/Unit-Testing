@@ -9,3 +9,8 @@ def div(x,y):
         raise ValueError("Can't divide by zero")
     # FLOOR DIVISION - NO REMAINDER
     return x / y
+
+
+def MASTERTEST():
+    print("PUSHING TO MASTER BRANCH")
+    
